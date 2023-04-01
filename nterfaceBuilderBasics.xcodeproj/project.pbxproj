@@ -56,6 +56,7 @@
 		AB9B3E8129D6F3C6002EACBD /* nterfaceBuilderBasics */ = {
 			isa = PBXGroup;
 			children = (
+				ABA11D2629D7E2C600C50B68 /* StackViews */,
 				AB9B3E8229D6F3C6002EACBD /* AppDelegate.swift */,
 				AB9B3E8429D6F3C6002EACBD /* SceneDelegate.swift */,
 				AB9B3E8629D6F3C6002EACBD /* ViewController.swift */,
@@ -65,6 +66,13 @@
 				AB9B3E9029D6F3C9002EACBD /* Info.plist */,
 			);
 			path = nterfaceBuilderBasics;
+			sourceTree = "<group>";
+		};
+		ABA11D2629D7E2C600C50B68 /* StackViews */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = StackViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

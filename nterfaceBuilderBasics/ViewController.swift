@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         label.textAlignment = .justified
         label.numberOfLines = 2
         label.adjustsFontSizeToFitWidth = true
-        
+        //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 token repositorio
         
         
         // cambiar a idioma
